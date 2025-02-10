@@ -1,5 +1,5 @@
 # What is your favorite color?
-Answer:
+Answer: Blue
 
 # Dogs, Cats, or Other? If other, specify.
-Answer:
+Answer: Dogs
